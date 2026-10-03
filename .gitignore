@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+.ipynb_checkpoints/
+*.tmp
+*.log
+.DS_Store
+
+# Large/generated files
+*.h5
+*.keras
+*.pth
+*.pt
+
+# Dataset
+dataset/
+data/raw/
